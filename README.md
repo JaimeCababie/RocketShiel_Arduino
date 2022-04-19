@@ -1,4 +1,4 @@
-# RocketShiel_Arduino
+# RocketShield_Arduino
 The RocketShield for the Arduino UNO designed to empower student to learn how to create their own PCB designs.  
 
 It was made in colaboration with the Robotics and ilumination teachers from CENTRO. 
