@@ -13,3 +13,5 @@ The components need for the project are:
     4 3mm LEDs 
     6 220 Ohm resistors
     1 1k Ohm resistor
+    
+The PCB was designed using EASY-EDA designer, and the PCB was manufactured in Mexico.
